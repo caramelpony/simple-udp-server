@@ -1,4 +1,6 @@
 # Simple UDP Server
+## This was a utility for one of my previous positions
+## figured I'd host it incase I need it again.
 
 Simple UDP server to test UDP port forwarding on SCP Routers
 
